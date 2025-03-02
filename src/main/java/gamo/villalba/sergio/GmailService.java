@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 
 public class GmailService {
     private static final String HOST = "imap.gmail.com";
-    private static final String GMAIL_USER_NAME = "practicapspsv@gmail.com";
-    private static final String PASSWORD = "rzsj pdqw xymc otpv";
+    private static final String GMAIL_USER_NAME = "";
+    private static final String PASSWORD = "";
     private static final int NUM_MAX_MENSAJES = 7;
     private static final String LABEL_DONE = "Done";
     private static final String LABEL_WORK_IN_PROGRESS = "Work.in.Progress";
