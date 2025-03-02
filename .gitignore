@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Excluir el archivo JSON de credenciales
+/credentials.json
+
+# Excluir la carpeta de tokens
+/tokens/
